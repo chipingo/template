@@ -244,7 +244,7 @@ header .intro-text {
 header .intro-text .intro-lead-in {
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: italic;
-  font-size: 22px;
+  font-size: 12px;
   line-height: 22px;
   margin-bottom: 25px;
 }
@@ -252,7 +252,7 @@ header .intro-text .intro-heading {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  font-size: 50px;
+  font-size: 10px;
   line-height: 50px;
   margin-bottom: 25px;
 }
@@ -279,12 +279,11 @@ header .intro-text .intro-heading {
 }
 section {
   padding: 100px 0;
-  
 }
 section h2.section-heading {
   font-size: 36px;
   margin-top: 0;
-  margin-bottom: 15px;
+  margin-bottom: 2px;
 }
 section h3.section-subheading {
   font-size: 16px;

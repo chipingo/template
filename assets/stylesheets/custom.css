@@ -2,9 +2,6 @@
 .text-primary {
   color: #00A3D9;
 }
-.tel{
-  font-size: 2vw;
-}
 
 p {
   font-size: 14px;
@@ -13,6 +10,19 @@ p {
 span{
   color: #00A3D9;
   font-style: italic;
+}
+.intro-txt {
+  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-style:normal;
+  font-size:42px;
+  padding-top: 120px;
+
+
+}
+header .intro-text {
+  padding-top: 50px;
+  padding-bottom: 250px;
+  color: rgb(255, 255, 255, 0.7);
 }
 
 p.large {
@@ -42,7 +52,7 @@ h5,
 h6 {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 }
